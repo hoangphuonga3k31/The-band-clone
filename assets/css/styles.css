@@ -146,6 +146,7 @@ html {
     padding: 64px 0;
     margin-left: auto;
     margin-right: auto;
+
 }  
 
 #content .about-text {
@@ -153,6 +154,30 @@ html {
     font-size: 15px;
     text-align: justify;
     line-height: 1.4;
+}
+
+#content .member-list {
+    margin-top: 48px;
+}
+
+#content .member-items {
+    float: left;
+    width: 33.3333%;
+    text-align: center;
+}
+
+#content .member-name {
+    font-size: 15px;
+}
+
+#content .member-img {
+    width: 154px;
+    border-radius: 5%;
+    margin-top: 15px;
+}
+
+#content .clear {
+    clear: both;
 }
 
 #footer {
